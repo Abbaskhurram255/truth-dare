@@ -1,5 +1,5 @@
 {
-     "name": "truth-or-dare",
+  "name": "truth-or-dare",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
